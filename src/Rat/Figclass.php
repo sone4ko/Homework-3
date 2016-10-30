@@ -1,6 +1,6 @@
 <?php
 
-namespace Project\Figure\Gen;
+namespace Project\Figure\Rat;
 
   abstract class FigClass
   {

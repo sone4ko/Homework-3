@@ -14,8 +14,8 @@ class Rectangle extends FigClass {
 
 ?>
 /**
- * Created by PhpStorm.
- * User: samos
- * Date: 29.10.16
- * Time: 1:44
- */
+* Created by PhpStorm.
+* User: samos
+* Date: 29.10.16
+* Time: 1:44
+*/
