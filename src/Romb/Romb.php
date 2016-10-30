@@ -1,6 +1,6 @@
 <?php
 
-namespace Project\figure\romb;
+namespace Project\Figure\Romb;
 
 class Romb extends Rectangle   {
     function form()

@@ -1,6 +1,6 @@
 <?php
 
-namespace Project\figure\rat;
+namespace Project\Figure\Rat;
 
   require_once "Rectangle.php";
   $ret = new Rectangle (15, 17);

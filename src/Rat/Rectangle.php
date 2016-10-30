@@ -1,6 +1,6 @@
 <?php
 
-namespace Project\figure\rat;
+namespace Project\Figure\Rat;
 
 class Rectangle extends FigClass {
     public function move ($x, $y) {

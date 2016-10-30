@@ -1,6 +1,6 @@
 <?php
 
-namespace Project\figure\gen;
+namespace Project\Figure\Gen;
 
   abstract class FigClass
   {
