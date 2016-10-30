@@ -1,0 +1,16 @@
+{
+    "name": "project/figure",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anastasia Samosenok",
+            "email": "_nastya_1993@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Project\\Figure\\": "src"
+        }
+    },
+    "require": {}
+}

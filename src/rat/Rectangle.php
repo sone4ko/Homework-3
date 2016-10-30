@@ -1,11 +1,17 @@
 <?php
-require_once "figclass.php"
+
+namespace Project\figure\rat;
+
 class Rectangle extends FigClass {
     public function move ($x, $y) {
         $this->x = $x;
         $this->y = $y;
     }
+    function form () {
+        return 'only quadrangles';
+    }
 }
+
 ?>
 /**
  * Created by PhpStorm.

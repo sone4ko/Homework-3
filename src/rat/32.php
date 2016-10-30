@@ -1,5 +1,8 @@
 <?php
-  require_once "rectangle.php";
+
+namespace Project\figure\rat;
+
+  require_once "Rectangle.php";
   $ret = new Rectangle (15, 17);
   echo "<br />";
   echo $ret ->getX();
